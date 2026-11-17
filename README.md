@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Vinaya Anilkumar! 👋
 
-<!--
-**VinayaAnilkumar/VinayaAnilkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | Computer Science Graduate
 
-Here are some ideas to get you started:
+I'm an aspiring Data Analyst passionate about working with data, discovering meaningful insights, and solving real-world business problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy exploring datasets, cleaning data, creating visualizations, and building interactive dashboards to turn raw data into useful information.
+
+### 🛠️ Technical Skills
+
+- **Excel:** Data Cleaning, Pivot Tables, Dashboards, Power Query
+- **SQL:** Queries, Joins, Subqueries, Aggregate Functions
+- **Python:** Pandas, NumPy, Data Analysis
+- **Power BI:** Data Modeling, DAX, Interactive Dashboards
+- **Tableau:** Data Visualization, Interactive Dashboards
+
+### 📊 Projects
+
+My portfolio includes practical projects in data analysis, business intelligence, data visualization, and reporting.
+
+*Projects coming soon!*
+
+📜 Certifications
+
+- Google Foundations of Data Science
+- Data Analysis using Power BI
+
+### 📫 Connect With Me
+
+- GitHub: https://github.com/VinayaAnilkumar
