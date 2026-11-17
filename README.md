@@ -1,18 +1,20 @@
 # Hi, I'm Vinaya Anilkumar! 👋
 
-### Aspiring Data Analyst | Computer Science Graduate
+### Data Analyst | Computer Science Graduate
 
-I'm an aspiring Data Analyst passionate about working with data, discovering meaningful insights, and solving real-world business problems.
+I'm a Computer Science graduate with hands-on experience in data analysis, data cleaning, exploratory data analysis, and dashboard development.
 
-I enjoy exploring datasets, cleaning data, creating visualizations, and building interactive dashboards to turn raw data into useful information.
+I work with SQL, Python, Excel, Power BI, and Tableau to explore datasets, identify trends, and transform raw data into meaningful business insights.
+
+I enjoy working on real-world data projects and building interactive dashboards that support better decision-making.
 
 ### 🛠️ Technical Skills
 
-- **Excel:** Data Cleaning, Pivot Tables, Dashboards, Power Query
-- **SQL:** Queries, Joins, Subqueries, Aggregate Functions
-- **Python:** Pandas, NumPy, Data Analysis
-- **Power BI:** Data Modeling, DAX, Interactive Dashboards
-- **Tableau:** Data Visualization, Interactive Dashboards
+- **Data Analysis:** Data Cleaning, EDA, Data Modelling, KPI Tracking, Trend Analysis
+- **Programming:** Python, SQL, C++
+- **Data Visualization:** Power BI, Tableau, Excel
+- **Tools:** Power Query, DAX, SAP, QMS
+
 
 ### 💻 Tools & Technologies
 
@@ -24,17 +26,21 @@ I enjoy exploring datasets, cleaning data, creating visualizations, and building
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-### 📊 Projects
+### 📊 Featured Projects
 
-My portfolio includes practical projects in data analysis, business intelligence, data visualization, and reporting.
+- Sales Performance Dashboard | Power BI
+- Waste Management Analytics Dashboard | Power BI
+- Restaurant & Delivery Insights | Tableau
+- Traffic & Road Congestion Analytics | Excel
+- Energy Monitoring System | IoT & Data Analytics
 
-*Projects coming soon!*
+### 📜 Certifications
 
-📜 Certifications
-
-- Google Foundations of Data Science
-- Data Analysis using Power BI
+- Tata Group Data Analytics Job Simulation | Forage
+- GenAI Powered Data Analytics Job Simulation
 
 ### 📫 Connect With Me
 
+- LinkedIn: [Vinaya Anilkumar](https://www.linkedin.com/in/vinaya-anilkumar-562053314/)
+- Email: vinayaanilkumar2002@gmail.com
 - GitHub: https://github.com/VinayaAnilkumar
